@@ -1,21 +1,65 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+               ATLAS AI
+
+Inteligência Artificial para Gestão Empresarial
+
+Sua empresa fala. A IA entende. Você decide.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 # Atlas AI
 
 ## Plataforma Inteligente para Gestão Empresarial
 
-Projeto conceitual de uma plataforma SaaS baseada em Inteligência Artificial para apoio à tomada de decisão de pequenas e médias empresas.
+A Atlas AI é um projeto conceitual de uma plataforma SaaS baseada em Inteligência Artificial desenvolvida para apoiar pequenas e médias empresas na tomada de decisões estratégicas.
 
-Este repositório documenta todas as etapas da concepção do produto, desde a estratégia de negócio até a arquitetura da solução, demonstrando competências em Product Management, Business Analysis, Engenharia de Requisitos e Arquitetura de Software.
+O projeto documenta todo o ciclo de concepção de um produto digital, abrangendo estratégia, Product Discovery, Engenharia de Requisitos, Arquitetura de Soluções e planejamento do MVP.
+
+
+## Índice
+
+• Visão Geral
+
+• Objetivos
+
+• Competências Demonstradas
+
+• Estrutura do Projeto
+
+• Roadmap
+
+• Tecnologias
+
+• Documentação
+
+• Próximos Passos
 
 ## Competências Demonstradas
 
-- Product Discovery
-- Product Strategy
-- Business Analysis
-- Engenharia de Requisitos
-- UX
-- Arquitetura de Soluções
-- IA aplicada aos Negócios
-- Planejamento de MVP
+✔ Product Discovery
+
+✔ Product Strategy
+
+✔ Business Analysis
+
+✔ Engenharia de Requisitos
+
+✔ Casos de Uso
+
+✔ User Stories
+
+✔ Product Backlog
+
+✔ Arquitetura de Soluções
+
+✔ Inteligência Artificial
+
+✔ MVP
+
+✔ UX
+
+✔ Roadmap
 
 - ## Estrutura do Projeto
 
