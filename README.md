@@ -1,16 +1,7 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ATLAS AI
 
-               ATLAS AI
-
-Inteligência Artificial para Gestão Empresarial
-
+Estudo de Caso: Inteligência Artificial aplicada à Gestão Empresarial
 Sua empresa fala. A IA entende. Você decide.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-# Atlas AI
-
-## Plataforma Inteligente de Gestão Empresarial baseada em Inteligência Artificial
 
 ## Visão Geral
 
