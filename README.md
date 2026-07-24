@@ -1,6 +1,7 @@
 # ATLAS AI
 
 Estudo de Caso: Inteligência Artificial aplicada à Gestão Empresarial
+
 Sua empresa fala. A IA entende. Você decide.
 
 ## Visão Geral
